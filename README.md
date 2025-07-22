@@ -1,6 +1,6 @@
 # Resume
 
-##More than 18 years of experience work with tech. Over 13 years of experience with high-performance teams in the capital markets:
+##M ore than 18 years of experience work with tech. Over 13 years of experience with high-performance teams in the capital markets:
  - Architecture and development of high-availability and high-criticality systems in real-time trading platforms (e-trading) and real-time risk management (pre-trading and post-trading);
  - Technical leadership and knowledge dissemination;
  - Considerable knowledge of capital market products and legislation;
@@ -12,7 +12,7 @@
  - Continuously improving communication between the product and engineering teams;
 
 
-##Architecture
+## Architecture
 • Event-driven architecture with Actors/SOA/Microservices: Akka.Net, Kafka, RabbitMQ;
 • Project Architecture: Clean, Hexagonal, Microservices approach to DDD and SOLID;
 • Azure DEVOPS - Specialist in pipelines, releases (CI-CD with Agent Jobs and YAML); Deployment patterns: Blue/Green, Canary, A/B Testing, Ramped, Big Bang;
