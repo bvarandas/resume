@@ -7,10 +7,8 @@
  - Designing pre-sales solutions and conducting presentations with ease for end customers;
  -  QA Mindset - BDD (Behavior-Driven Development) and TDD (Test-Driven Development) approaches;
  - Enthusiast for emerging architectures such as Actors (Akka.Net);
- - Over 18 years working with software architecture and engineering;
  - Harmonizing with the company's interests for mature, non-overly complex architectural definitions;
  - Continuously improving communication between the product and engineering teams;
-
 
 ## Architecture
  - Event-driven architecture with Actors/SOA/Microservices: Akka.Net, Kafka, RabbitMQ;
@@ -24,3 +22,13 @@
  - Requirements gathering and architectural variables using the C4 and UML models;
  - Unit, Integration, and Mutation Testing: Cypress (Test Automation), JMeter (Performance Testing), Selenium, Postman, FluentAssertions, Mock (Unit Testing), TestServer, Entity Framework Core (Integrated Testing)
  - Observability: Logs, traces, and metrics: Filebeat, Elastic Search, Kibana, Grafana, Dynatrace;
+
+## TECH
+ - C# .Net Core/C++ (STL, BOOST), Typescript;
+ - Event Driven Architecture/ Message Driven Architecture: Akka.Net, Kafka, RabbitMQ;
+ - QuickFix Protocol (Market Data, DropCopy), ZEROMQ, Protobuf, FlatBuffers, gRPC;
+ - BD e ORM: Oracle, SQL Server, Entity Framework Core, Dapper, NHibernate, LINQ, Migrations;
+ - No Sql: REDIS, MongoDB, Elastic Search;
+ - SignalR, ZeroMQ, API Restful, SOAP, SFTP, WCF;
+ - Design Patterns: Event Sourcing, Unit of work, Repository, Singleton, Facade, Adapter, Mediator, Strategy, Decorator;
+ - Clouds: Azure Functions, Azure Storage, , ServiceBus, Aws SQS/SNS, S3,   Lambda;
