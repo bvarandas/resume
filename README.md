@@ -39,22 +39,22 @@
 Company: Rendimento Pay					                                                                  Cycle: 07/2024 - 07/2025
 Roles: Systems Architecture and Software Engineering
 Architecture and Staff Engineer:
-Pix, Financial Distributed Services, QR Code, Pix Copy and Paste
-Diagramming and presenting projects in C4, MDL, and UML;
-Architectural requirements gathering;
-Architectural patterns and software patterns;
-NET Core SQL, Dapper
-Observability (monitoring, tracing, and logs);
-Unit Tests, Integration Tests
-Clean Architecture, DDD
-Api Restful, Refit;
-Angular 16/TypeScript
-Choreography: Distributed decisions; each local transaction generates domain events that trigger transactions in other services.
+ - Pix, Financial Distributed Services, QR Code, Pix Copy and Paste
+ - Diagramming and presenting projects in C4, MDL, and UML;
+ - Architectural requirements gathering;
+ - Architectural patterns and software patterns;
+ - NET Core SQL, Dapper
+ - Observability (monitoring, tracing, and logs);
+ - Unit Tests, Integration Tests;
+ - Clean Architecture, DDD
+ - Api Restful, Refit;
+ - Angular 16/TypeScript
+ - Choreography: Distributed decisions; each local transaction generates domain events that trigger transactions in other services.
 Results:
-Diagramming with MDL, C4, helped add value to the software for stakeholders; 
-Maturity in the project planning process for critical areas such as financial and/or tax;
-Maturity in the implementation of ACID transactions.
-Improvement in the technology stack regarding observability.
+ - Diagramming with MDL, C4, helped add value to the software for stakeholders; 
+ - Maturity in the project planning process for critical areas such as financial and/or tax;
+ - Maturity in the implementation of ACID transactions.
+ - Improvement in the technology stack regarding observability.
 
 ##
 
